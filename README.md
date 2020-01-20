@@ -1,2 +1,18 @@
-# call-for-applications
-eXist-db/XQuery summer school - call for applications
+# Call for applications: eXist-db/XQuery Summer School, June 15-19, 2020
+
+In the last two decades, historians, archaeologists, and philologists of ancient, medieval, and early modern societies have profited from XML-technologiesto encode and store their corpora and data sets. However, most of this work has occurred at the level of individual XML  les, with analysis, publication, and display generated through non-XML technologies (PHP, Python, etc.), often depending on other specialist programmers. Due to a lack of training opportunities, digital humanists have not been able to leverage their XML skills into advanced query methods and applications.
+
+This XQuery and eXist-db week-long intensive is ffered to humanists from all countries who want to capitalize on their existing knowledge of XML and XPATH in order to develop their own XML databases and applications. By the end of this free, 5-day intensive course, the attendees will be able to use XQuery and eXist-db to:
+
+* query and transform large corpora and datasets
+
+* develop XML applications
+
+* publish documents and data to the Web
+
+* make data available through APIs
+
+* communicate with system administrators about XML database and application implementation
+
+# Application deadline: February 9, 2020
+
