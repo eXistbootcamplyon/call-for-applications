@@ -20,20 +20,20 @@ Download the PDF flyer for course details and information on applying: https://g
 
 
 Organiser: 
-Jean-Paul Rehr, Univ. Lyon II/CIHAM
+* Jean-Paul Rehr, Univ. Lyon II/CIHAM
 
 Advisory Committee: 
-Marjorie Burghart, CNRS/CIHAM
-Emmanuelle Morlock, CNRS/HiSoMA
+* Marjorie Burghart, CNRS/CIHAM
+* Emmanuelle Morlock, CNRS/HiSoMA
 
 Trainers:
-Mathias Göbel, Univ. Göttingen
-Michelle Weidling, Univ. Göttingen
+* Mathias Göbel, Univ. Göttingen
+* Michelle Weidling, Univ. Göttingen
 
 Guest Speakers:
-Nicolas Larrousse, Huma-Num
-Emmanuelle Morlock, CNRS/HiSoMA
-Peter Stokes, École Pratique des Hautes Études/Sorbonne
+* Nicolas Larrousse, Huma-Num
+* Emmanuelle Morlock, CNRS/HiSoMA
+* Peter Stokes, École Pratique des Hautes Études/Sorbonne
 
 
 
