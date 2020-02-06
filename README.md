@@ -14,9 +14,12 @@ This XQuery and eXist-db week-long intensive is offered to humanists from all co
 
 * communicate with system administrators about XML database and application implementation
 
-# Application deadline: February 9, 2020
+# Application deadline (extended): February 23, 2020
 
-Download the PDF flyer for course details and information on applying: https://github.com/eXistbootcamplyon/call-for-applications/blob/master/exist_summer_school_lyon_2020_flyer.pdf
+Download the PDF flyer for course details and information on applying:
+
+English https://github.com/eXistbootcamplyon/call-for-applications/blob/master/exist_summer_school_lyon_2020_flyer_EN.pdf
+Français https://github.com/eXistbootcamplyon/call-for-applications/blob/master/exist_summer_school_lyon_2020_flyer_FR.pdf
 
 
 Organiser: 
