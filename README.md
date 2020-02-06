@@ -32,6 +32,7 @@ Advisory Committee:
 
 Trainers:
 * Mathias Göbel, Univ. Göttingen
+* Jean-Paul Rehr, Univ. Lyon 2/CIHAM
 * Michelle Weidling, Univ. Göttingen
 
 Guest Speakers:
