@@ -19,6 +19,7 @@ This XQuery and eXist-db week-long intensive is offered to humanists from all co
 Download the PDF flyer for course details and information on applying:
 
 English https://github.com/eXistbootcamplyon/call-for-applications/blob/master/exist_summer_school_lyon_2020_flyer_EN.pdf
+
 Français https://github.com/eXistbootcamplyon/call-for-applications/blob/master/exist_summer_school_lyon_2020_flyer_FR.pdf
 
 
